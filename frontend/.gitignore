@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# ClojureScript
+.shadow-cljs
+
+# Misc
+build
+node_modules
